@@ -1,6 +1,6 @@
-Task 2
-SSL Offloading and Proxies for given Serven specs
-Parameters of Interests to measure can be classified in general as system parameters an network parameters
+## Task 2  
+SSL Offloading and Proxies for given Serven specs  
+Parameters of Interests to measure can be classified in general as system parameters an network parameters  
 System parametrs of interests in general are CPU utilization, DISK I/O read/write performance, latency etc,
 
 for given hardwares 
