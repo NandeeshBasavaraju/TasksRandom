@@ -24,5 +24,5 @@ Reference : https://www.golinuxcloud.com/how-to-improve-disk-io-performance-in-l
 
 
 Network Parameters of Interests in gerenal are Throughput, Bandwidth, Latency, Round Trip Time, 
-Network Interface Cards ---> 2x10Gbit/snics
+Network Interface Cards ---> 2x10Gbit/s nics
 Load balancing and High availability scenarios from Network layer to application layer can be monitored.
