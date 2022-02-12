@@ -1,4 +1,4 @@
-# AdjusttasksRandom
+# Shuf command random number generation
 Unique Random numbers generation from 1 to 10
 References 1: https://linux.die.net/man/1/shuf
            2:https://linuxhint.com/bash_shuf_command/
